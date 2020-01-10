@@ -1,0 +1,22 @@
+Algorithm
+Mean best result [km]
+σ
+Minimal best result [km]
+Maximal best result [km]
+Execution time [s]
+σ
+GA
+28.71
+1.61668
+25.14
+32.81
+0.12131
+0.01317
+SA
+28.48
+
+
+24.51
+31.84
+0.12737
+0.01233
